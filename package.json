@@ -1,0 +1,13 @@
+{
+  "name": "Panasonic-Home-Theater-Library",
+  "version": "1.0.0",
+  "description": "JS library for controlling Panasonic Home Theater Systems",
+  "main": "src/index.js",
+  "repository":
+    "https://github.com/Alapwood/Panasonic-Home-Theater-Library.git",
+  "author": "<23086529+Alapwood@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
